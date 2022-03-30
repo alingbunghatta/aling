@@ -1,2 +1,0 @@
-# aling
-membuat aplikasi
